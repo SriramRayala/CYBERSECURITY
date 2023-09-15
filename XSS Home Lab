@@ -1,0 +1,27 @@
+🧑‍💻💥[𝗫𝗦𝗦 𝗔𝘁𝘁𝗮𝗰𝗸 𝗛𝗼𝗺𝗲-𝗟𝗮𝗯]💥👩‍💻
+This lab is designed to test Cross-site Scripting attacks.
+If you’re interested in becoming Security Tester, Pentester, Ethical Hacker, this lab will help you to detect and exploit reflected, stored and Dom-based XSS vulnerabilities.
+
+🟢  𝐂𝐨𝐫𝐞 𝐈𝐧𝐠𝐫𝐞𝐝𝐢𝐞𝐧𝐭𝐬
+📌 Setup Virtual-box https://lnkd.in/d8Shs5VE
+📌 Kali Linux https://lnkd.in/dH66DGFe
+📌 Download WebGoat https://lnkd.in/dnUe9gMi
+
+🟢  𝐃𝐞𝐭𝐞𝐜𝐭 𝐗𝐒𝐒 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬
+In this section, we’ll detect XSS vulnerabilities using DalFox, XSStrike, XSS Scanner and Burp-Suite tools.
+📌 Scanning for XSS using DalFox https://lnkd.in/dxAQsrnk
+📌 Scanning with XSStrike Tool https://lnkd.in/d293QQjB
+📌 Scanning with XSS Scanner https://lnkd.in/di4aQHxv
+
+
+🟢 𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐗𝐒𝐒 𝐚𝐭𝐭𝐚𝐜𝐤𝐬
+➡️ Reflected XSS into HTML context
+➡️ Reflected XSS with event handlers
+➡️ Reflected XSS with some SVG markup
+➡️ Stored XSS
+➡️ DOM-based XSS
+
+🟢 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬 𝐨𝐟 𝐗𝐒𝐒 𝐚𝐭𝐭𝐚𝐜𝐤𝐬
+➡️ Exploiting cross-site scripting to steal cookies
+➡️ Exploiting cross-site scripting to capture passwords
+➡️ Exploiting cross-site scripting to perform CSRF
