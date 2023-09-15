@@ -1,0 +1,50 @@
+🧑‍💻💥[𝐎𝐩𝐞𝐧-𝐒𝐨𝐮𝐫𝐜𝐞 𝐒𝐎𝐂 𝐇𝐨𝐦𝐞-𝐋𝐚𝐛]💥👩‍💻
+
+This home-lab will help you set up your own SOC at $0. If you’re an Aspirant SOC Analyst or Tier-1 SOC Analyst, this Home-lab will help you with real-world tools and practical techniques to excel in your Blue Team career.
+
+🟢 𝐂𝐨𝐫𝐞 𝐈𝐧𝐠𝐫𝐞𝐝𝐢𝐞𝐧𝐭𝐬
+📍 Setting up Virtualbox for Home-Lab https://buff.ly/45IC5ua
+📍 Download Wazuh with Elastic Stack https://buff.ly/3PgjMHi
+
+
+🟢 𝐈𝐧𝐬𝐭𝐚𝐥𝐥 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
+
+📍Install Suricata https://buff.ly/3sBlHxc
+
+📍Install YARA https://buff.ly/3qPMplq
+
+
+🟢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐮𝐩 𝐓𝐡𝐫𝐞𝐚𝐭 𝐈𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐜𝐞
+
+📍Set up VirusTotal https://buff.ly/2JheMjm
+
+📍Setting up AbushIPDB https://buff.ly/3kNeEdG
+
+📍Setting up URLhuas https://buff.ly/2OXXfBB 
+
+📍 Setting up MISP https://buff.ly/45MHY9F
+
+
+🟢 𝐑𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐔𝐬𝐞 𝐂𝐚𝐬𝐞𝐬
+
+Wazuh can be used to detect several types of security threats by integration above mentioned Modules and Online integration.
+
+➡️ Detect unauthorized changes to critical files and configurations.
+
+➡️ Detect and respond to unauthorized access attempts and malicious activities across your network.
+
+➡️ Centralize and analyze logs from various sources to gain insights into system behaviors.
+
+➡️ Quickly identify and mitigate security incidents to minimize their impact.
+
+➡️ Proactively search for hidden threats and vulnerabilities within your environment.
+
+➡️ Monitor user behavior to detect unusual or suspicious activities.
+
+➡️ Detect unauthorized changes to critical files and configurations.
+
+➡️ Identify and prioritize vulnerabilities for patching and remediation.
+
+➡️ Monitor for insider threats and unauthorized data access.
+
+➡️ Monitor and protect critical applications from attacks and vulnerabilities.
