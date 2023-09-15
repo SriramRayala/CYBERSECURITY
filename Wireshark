@@ -1,0 +1,23 @@
+📝 💥[𝟏𝟎 𝐖𝐢𝐫𝐞𝐬𝐡𝐚𝐫𝐤 𝐅𝐢𝐥𝐭𝐞𝐫𝐬 𝐟𝐨𝐫 𝐌𝐚𝐥𝐰𝐚𝐫𝐞 𝐃𝐞𝐭𝐞𝐜𝐭𝐢𝐨𝐧𝐬]💥📝
+
+Display filters in Wireshark allow you to focus on specific types of network traffic. In this list, I’ll share 10 Most important Wireshark Filters to detect Malicious traffic. If you’re a SOC analyst or SOC Aspirant, this will help you to perform malware analysis.
+
+⭐️ Unusual Traffic to External Servers: [ip.dst !in private and ip.src !in private]
+
+⭐️ Unusual Ports: [!(port == 80 or port == 443 or port == 53)]
+
+⭐️ HTTP Traffic with Large Responses:[http.response.code == 200 and frame.len > 10000]
+
+⭐️ Unencrypted Credentials:[**http.request.method == "GET" and http.request.uri contains "password"]
+
+⭐️ Suspicious DNS Queries:[dns.qry.type == 1 and https://buff.ly/481vUDq contains "malicious"]
+
+⭐️ Large Amounts of DNS Traffic:[dns.flags.response == 0 and dns.qry.type == 1 and frame.len > 200]
+
+⭐️ Excessive ICMP Traffic:[icmp and ip.src != ip.dst]
+
+⭐️ Unusual User-Agent Strings:[http.user_agent contains "curl" or http.user_agent contains "wget"]
+
+⭐️ Unsolicited ARP Requests:[arp.opcode == 1 and not arp.dst.hw_mac eq 00:00:00:00:00:00]
+
+⭐️ Suspicious Outbound Traffic:[ip.src == private and ip.dst !in private and (tcp.flags.syn == 1 or tcp.flags.ack == 1)]
