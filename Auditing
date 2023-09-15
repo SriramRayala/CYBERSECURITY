@@ -1,0 +1,37 @@
+WAF audit checklist
+
+### Configuration & Management
+1. Default Settings: Ensure all default usernames and passwords have been changed.
+2. Software Version: Verify that the WAF is running the most current and secure version.
+3. Access Control: Ensure only authorized personnel have access to the WAF management interface.
+  
+### Policy Review
+4. Rule Sets: Review and validate custom and default rule sets to ensure they align with security policies.
+5. False Positives/Negatives: Test for and minimize false positives and negatives.
+6. Data Leakage: Check that sensitive data is not leaked through error messages or logs.
+
+### Logging & Monitoring
+7. Logging Enabled: Verify that all logs are enabled and properly stored.
+8. Real-Time Monitoring: Ensure real-time monitoring is active.
+9. Log Analysis: Regularly review logs for suspicious activity.
+
+### Performance
+10. Latency: Check latency added by the WAF and ensure it's within acceptable limits.
+11. Throughput: Verify the WAF can handle the application’s traffic load.
+12. Resource Utilization: Monitor CPU, memory, and network resource utilization.
+
+### Security Features
+13. DDoS Protection: Confirm that DDoS protections are active and configured.
+14. Rate Limiting: Ensure rate limiting is enabled and configured for your application’s needs.
+15. Bot Mitigation: Check that automated bot threats are adequately addressed.
+  
+### Incident Response
+16. Alert Configuration: Validate that alerts are configured for key security events.
+17. Incident Response Plan: Make sure there is an incident response plan specific to WAF events.
+  
+### Documentation & Compliance
+18. Documentation: Ensure all configurations and rule sets are properly documented.
+19. Compliance: Check that the WAF helps meet compliance requirements like GDPR, PCI-DSS, etc.
+  
+### Testing
+20. Penetration Testing: Conduct or review recent penetration tests that focus on the WAF’s capabilities.
