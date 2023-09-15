@@ -21,3 +21,23 @@ Threat hunting plays an important role in any SOC environment. Advanced threats 
 ⭐️ Loki for Automated YARA Scan https://buff.ly/2MOXGtK
 
 ⭐️ SecurityOnion https://buff.ly/45XgFcO
+
+Threat hunting: MITRE ATT&CK and Wazuh!
+
+Threat hunting is a proactive and iterative practice to look for any sign of adversary-related activities in our digital environment. It’s a human-driven practice! We can’t rely 100% on tools and automated security solutions.
+
+It’s a job of a human expert with the aid of good tools!
+
+We may have a list of tools to help us have a better hunt, and #Wazuh is one of them. A free and open-source security monitoring for threat detection, integrity monitoring, incident response and compliance. [https://wazuh.com/]
+
+Here is a good read by the hacker news that briefly explains how to use the Wazuh combined with MITRE ATT&CK to hunt threats as follows:
+
+• MITRE ATT&CK
+• The Wazuh unified XDR and SIEM platform
+• Threat hunting with Wazuh
+• Wazuh MITRE ATT&CK module
+• Wazuh rules and decoders
+• Security Configuration Assessment (SCA) module
+• Integration with threat intelligence solutions
+• File integrity monitoring
+• Wazuh archives
