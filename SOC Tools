@@ -108,3 +108,46 @@ https://lnkd.in/gwtuJqaE
 
 • IBM Node-Red: generalized automation / orchestration framework
 https://lnkd.in/gCEUNXCY
+
+🛡 SOC Investigation Microsoft Events Log Analysis Part (1).
+
+🔑 The logon type field indicates the kind of logon that occurred.
+Logon Type 2 - Interactive
+Logon Type 3- Network
+Logon Type 4- Batch
+Logon Type 5 - Service
+Logon Type 7 - Unlock
+Logon Type 8 - NetworkCleartext
+Logon Type 9- NewCredentials
+Logon Type 10 - RemoteInteractive
+Logon Type 11 -CacheInteractive
+⚠️ Logon types 2, 3 & 10 are the most common type of logons
+💊 https://bit.ly/3hGpkwG
+______________________________________
+
+
+🔑 Example Event ID and Description:
+4624 -Successful User Account Login
+4625 -Failed User Account Login
+4720 -A user account is created
+4726 -A user account was deleted
+4740 -A user account was locked out
+4767 -A user account was unlocked
+1102 -The audit log was cleared
+💊 https://bit.ly/3EvcF8P
+______________________________________
+
+
+🔑 login Failure Codes(Status and Sub-Status Codes Description:)
+✔️0xC0000193 account expiration.
+✔️0xC0000071 expired password.
+✔️0xC0000064 user name does not exist.
+✔️0xC0000234 user is currently locked out.
+✔️0xC0000072 account is currently disabled.
+✔️0xC000006A user name is correct but the password is wrong.
+✔️0xC0000225 evidently a bug in Windows and not a risk.
+✔️0xC0000224 user is required to change the password at the next logon.
+✔️0xC0000133 clocks between DC and other computers are too far out of sync.
+✔️0xC000006F user tried to logon outside his day of week or time of day restrictions.
+✔️0xC0000070 workstation restriction, or Authentication Policy Silo violation (look for event ID 4820 on the domain controller).
+✔️0xc000015b The user has not been granted the requested logon type (aka logon right) at this machine.
