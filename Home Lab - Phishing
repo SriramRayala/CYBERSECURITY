@@ -1,0 +1,28 @@
+😱💥[ Phishing Simulation Home Lab]💥👩‍💻
+Yes! Humans are still the weakest link in the kill chain. How about testing your Organizations before you get compromised?
+This home-lab is focused in building a Phishing simulation to know your vulnerable users and bring down the risk.
+
+Whether you’re a SOC Analyst, Red Team Operator or Security analyst, this list will help you set up phishing simulation environment.
+
+🟢 Pre-requisites
+📌 Download Virtualbox https://buff.ly/3EhzbB1
+📌 Three Most Common Phishing attacks in 2023 https://buff.ly/3L3fOiQ
+📌 Three Most Common Phishing attacks https://buff.ly/3L3fOiQ
+📌 Zero to CyberHero for Cybersecurity career https://buff.ly/3L6dIi8
+
+
+🟢 Setting up the Phishing Server[Enterprise-level]
+📌 Buy a Linux VPS Server from Linode/Digital Ocean https://buff.ly/3qXfjA4
+📌 Install GoPhish https://buff.ly/3ElvMkz
+
+
+🟢 Setting up the Local Phishing Server
+📌 Install Kali Linux https://buff.ly/3qUQIMc
+📌 Install GoPhish https://buff.ly/3ElvMkz
+📌 Default Credential: admin/Gophish
+
+
+🟢 Launching Phishing Campaign
+📌 Create a Landing Page https://buff.ly/3EkANtA
+📌 Create Campaign and Email Templates https://buff.ly/3Elk8Gj
+📌 Create Sending Profile https://buff.ly/3Pkb8Yw
