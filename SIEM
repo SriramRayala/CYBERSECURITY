@@ -244,3 +244,27 @@ ____________________________________________
 🔰 Installing the Elastic Stack - https://lnkd.in/dUp-TCAU
 
 🔰 Lucene query syntax is available to Kibana users who opt out of the Kibana Query Language. - https://lnkd.in/dQqgPn-3
+
+🚀💥[ IBM QRadar SIEM - Home Lab]💥👩‍💻
+.
+.
+🟢 Pre-requisites
+📌 Download Virtualbox https://lnkd.in/d8Shs5VE
+📌 Download VMWARE https://lnkd.in/d6gGFUYA
+📌 Zero to Cyberhero cybersecurity career https://lnkd.in/dDtanqyn
+
+
+🟢 Setting up IBM QRadar SIEM
+📌 Download QRadar Community Edition https://lnkd.in/d_n9ctrj
+📌 Install DSM plug-in for log parsing https://lnkd.in/d5Nds3jH
+📌 Conduct Basic Log Search https://lnkd.in/dnZUEBYP
+
+
+🟢 Setting up the Endpoint
+📌 Download Windows 10/11 https://lnkd.in/dNVU9b2M
+📌 Installing WinCollect on Windows 10/11 https://lnkd.in/dWE-iqJ3 Security&product=ibm/Other+software/IBM+Security+QRadar+SIEM&release=7.5.0&platform=Linux&function=fixId&fixids=7.5.0-QRADAR-AGENT_x64_WINCOLLECT-10.1.3-24.msi,7.5.0-QRADAR-AGENT_x86_WINCOLLECT-10.1.3-24.msi&includeSupersedes=0&source=fc
+
+
+🟢 Real-world Scenerios
+📌 Detecting IoT Reaper Malware https://lnkd.in/d_brhSnH
+📌 Multiple VPN Accounts Failed Login From Single IP https://lnkd.in/dKMckZuB
