@@ -1,0 +1,115 @@
+🔰 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐒𝐈𝐄𝐌 [𝐖𝐚𝐥𝐤𝐭𝐡𝐫𝐨𝐮𝐠𝐡] 🔰
+🔗https://lnkd.in/dYfYU9mk
+
+🔰 𝐒𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 & 𝐌𝐨𝐧𝐢𝐭𝐨𝐫𝐢𝐧𝐠 [𝐖𝐚𝐥𝐤𝐭𝐡𝐫𝐨𝐮𝐠𝐡] 🔰
+NOTE:
+- To focus on "Core Windows Processes" + "Sysmon"
+- I believe they can serve later while dealing with Splunk and ELK for the Cyber Kill Chain process
+🔗https://lnkd.in/dWW_VHHj
+
+===================================================
+
+Wireshark 101 [Walkthrough]
+https://lnkd.in/daiZdjuB
+
+Wireshark: The Basics [Walkthrough]
+https://lnkd.in/dKzRRsvd
+
+Wireshark: Packet Operations [Walkthrough]
+https://lnkd.in/d6QpneUF
+
+Wireshark: Traffic Analysis [Walkthrough]
+https://lnkd.in/dWxYbJ58
+
+Carnage [Challenge]
+https://lnkd.in/dzKCPjBQ
+
+Overpass2 - Hacked [Challenge]
+https://lnkd.in/dkU7R3SD
+
+Warzone 1 [Challenge]
+https://lnkd.in/dftjMfbN
+
+================================================
+
+Snort [Walkthrough]
+https://lnkd.in/d_rYeHsA
+
+Snort Challenge - The Basics [Challenge]
+https://lnkd.in/dthCe4cu
+
+Snort Challenge - Live Attacks [Challenge]
+https://lnkd.in/dqcb4NXN
+
+================================================
+
+Zeek [Walkthrough]
+https://lnkd.in/dqpDPuPW
+
+Zeek Exercises [Challenge]
+https://lnkd.in/dUDrp3Uc
+
+================================================
+
+Splunk: Basics [Walkthrough]
+https://lnkd.in/dAeySiSh
+
+Incident handling with Splunk (BOTS v1) [Walkthrough]
+https://lnkd.in/d6ttsH_C
+
+Splunk 2 (BOTS v2) [Walkthrough]
+https://lnkd.in/d6VxYCMX
+
+Splunk 3 (BOTS v3) [Walkthrough]
+https://lnkd.in/d-h_N9y3
+
+Investigating with Splunk [Walkthrough]
+https://lnkd.in/d7QkWtSA
+
+Conti [Challenge]
+https://lnkd.in/dEkwsQiC
+
+Benign [Challenge]
+https://lnkd.in/dK3nu2ZF
+
+PS Eclipse [Challenge]
+https://lnkd.in/dTmVy6EU
+
+================================================
+
+Investigating with ELK 101 [Walkthrough]
+https://lnkd.in/d4UWbYs4
+
+ItsyBitsy [Challenge]
+https://lnkd.in/duwhYf5a
+
+Threat Hunt: Investigator - A handy recon tool!
+
+Recon, short for reconnaissance, gathers information about a target or potential threat. It’s crucial for every offensive security practice, such as red team and pentest.
+
+What for threat hunters?
+
+As explained by MITRE ATT&CK, most of the recon activities are performed outside of the scope of our defenses and controls, so it’s not easy to prevent them!
+
+A proactive and interactive Recon enables threat hunters to understand potential threats better so that blue teams make informed decisions and respond to threats more effectively.
+
+The Investigator is a handy web-based recon tool that gathers third-party tools and google dorks to facilitate the recon process for us.
+
+1. Password files
+2. Directory Listing
+3. Database related
+4. Config and log files
+5. Backup files
+6. Find subdomains
+7. Search in crt Dot sh
+8. S3 Bucket
+9. WordPress deep search
+10. Search in Wayback Machine(Internet Archive)
+11. Check Security Headers
+12. And many more
+
+The Investigator: https://lnkd.in/gJ6727sS
+
+By analyzing the data collected during recon, threat hunters can proactively identify potential vulnerabilities, issues, misconfigurations, entry points, and even unknowns in a digital wonderland and anticipate the tactics and techniques attackers might use to exploit those weaknesses.
+
+Ah, and the main threat, remember? Scope X: https://lnkd.in/dNu7UXXF
