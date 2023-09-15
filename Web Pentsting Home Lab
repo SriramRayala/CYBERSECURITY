@@ -1,0 +1,30 @@
+👩‍💻💥[𝐖𝐞𝐛 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐇𝐨𝐦𝐞-𝐋𝐚𝐛 v1.3]💥👩‍💻
+This is one of my favorite Home Labs. It is focused on setting up most popular Vulnerable application. If you’re a System Engineer, Blue Team or Ethical hacker and want to excel your Web Pentesting skills, this home-lab will help you with hands-on excercise and use cases.
+
+🟢  𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+📌 Free Resources - Phases of Pentest by Gabrielle B 🔑 https://lnkd.in/dqkPd4Df
+
+🟢 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐎𝐒 𝐒𝐞𝐭𝐮𝐩
+📌 Setup Virtual-box https://lnkd.in/d8Shs5VE
+📌 Setup Kali Linux on Virtualbox https://lnkd.in/dN7Rv5Qk
+📌 Setup Ubuntu Server with Docker https://lnkd.in/dbSisgqb
+
+🟢 𝐒𝐞𝐭-𝐮𝐩 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐥𝐞 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬
+📌 Setup DVWA on Kali-Linux https://lnkd.in/d9t2aWzD
+📌 Download bWAPP on Kali-Linux https://lnkd.in/dqHjCxCi [password: bee/bug]
+📌 Setup OWASP Mutillidae on Ubuntu Docker https://lnkd.in/drVJ4MV8
+📌 Set up WebGoat on Ubuntu Docker https://lnkd.in/dM5D6nWh
+
+
+🟢 𝐏𝐞𝐧𝐭𝐞𝐬𝐭𝐢𝐧𝐠 𝐄𝐱𝐞𝐫𝐜𝐢𝐬𝐞 𝐮𝐬𝐢𝐧𝐠 𝐁𝐮𝐫𝐩-𝐒𝐮𝐢𝐭𝐞
+✅Attempt to manipulate SQL queries through input fields to gain unauthorized access to the database.
+✅ Inject malicious scripts into input fields to execute code in other users' browsers.
+✅ Cross-site Request Forgery (CSRF): Craft requests that execute actions on behalf of authenticated users without their consent.
+✅ Broken Authentication: Test for weak password policies, session fixation, and other authentication vulnerabilities.
+✅ Identify and exploit misconfigured server settings, directory permissions, and default credentials.
+✅ Attempt to access sensitive information, such as user credentials or personal data, by exploiting vulnerabilities.
+✅ Exploit the parsing of XML inputs to disclose internal files or execute malicious actions.
+✅ Manipulate serialized data to execute arbitrary code or perform unauthorized actions.
+✅ IDOR: Attempt to access unauthorized resources or data by manipulating object references.
+✅ SSRF: Send crafted requests to access internal resources or perform actions on the server.
+✅ File Upload: Upload malicious files to gain unauthorized access, execute code, or escalate privileges.
