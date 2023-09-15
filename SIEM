@@ -1,3 +1,215 @@
+What is SIEM?
+Security Information and Event Management.
+It is a security management solution that helps in collecting, parsing, and correlating events from various logs
+
+Collecting:
+ From many different resources across your entire IT infrastructure:
+(AV, Firewall, IPS, IDS, Database, EndPoints Security, ….etc)
+
+Parsing OR Normalization:
+Is the process of converting unstructured data into a structured format
+Examples:
+Raw Log {Jan 1 20:28:02 knight sshd [20336]: Failed password for root from 218.49.183.17 port 49869 ssh2}
+Parsing (Metadata)
+Event: Failed Password
+Username: root
+Source IP: 218.49.183.17
+Source Port: 49869
+Protocol: ssh
+
+Aggregation OR Analyzing:
+• It is the process of merging similar logs that occur over a period of time.
+Examples:
+If there are 20 failed login events by a user on a server, the server would generate 20 logs. But, instead of storing all the 20 logs, SIEM will only store 1 record.
+
+Correlation:
+Correlation can be defined as a set of conditions that indicate suspicious activities.
+Examples:
+·       User activity during non-business hours
+·       VPN logins from multiple locations
+·       Multiple malware #malware on the same host
+
+🎁 10 FREE SIEM Training Courses on Splunk.
+
+1. User Behavior Analytics
+https://lnkd.in/gMRpvibZ
+
+2. Scheduling Reports & Alerts
+https://lnkd.in/gmRq3sSn
+
+3. Intro to Knowledge Objects
+https://lnkd.in/g6JcSnF6
+
+4. SOAR Automation Broker
+https://lnkd.in/gN9Q5K_7
+
+5. Implementing the Splunk App for Infrastructure
+https://lnkd.in/gqYCpEaj
+
+6. Introduction to Splunk Observability
+https://lnkd.in/gmSdJEf3
+
+7. User Behavior Analytics
+https://lnkd.in/g58Utz5H
+
+8. IT Essentials Work- Walkthrough
+https://lnkd.in/gqJqSDJE
+
+9. Getting Data In
+https://lnkd.in/gC-a4j2d
+
+10. Splunk Infrastructure
+https://lnkd.in/gFCQdHfC
+
+The popular SIEM vendors
+✓ Splunk Enterprise Security
+✓ IBM QRadar
+✓ Exabeam
+✓ Securonix
+✓ LogRhythm
+✓ RSA Security Analytics
+✓ Microfocus Arcsight
+
+✅ FREE IBM QRadar SIEM Trainings From IBM Academy
+
+🎯 Getting started with QRadar - https://lnkd.in/ga3rZvKe
+
+🎯 QRadar Fundamentals - https://lnkd.in/guVawsUP
+
+🎯 QRadar SIEM Administrator - https://lnkd.in/gx3V9ZQw
+
+🎯 QRadar SIEM Analyst - https://lnkd.in/g2SDMN5f
+
+🎯 Managed Security Service Providers (MSSP) -https://lnkd.in/gYbJ_3GQ
+
+🎯 For all course catalog➡️ https://lnkd.in/gb8TquQD
+
+
+SIEM Training
+🔰 General
+✔️ Jose Bravo - What is a SIEM? (5 Vídeos): https://lnkd.in/dZFxnntg
+✔️ IPPSec - PowerSIEM Analyzing Sysmon Events with PowerShell: https://lnkd.in/dbvgd-Q3
+
+🔰 AlienVault OSSIM
+✔️ Cybrary - AlienVault OSSIM: https://lnkd.in/dmB6brfi
+
+🔰 Elastic
+✔️ Elastic - SIEM Fundamentals: https://lnkd.in/dYaTMCEV
+
+🔰 ArcSight (2 séries/paylists de vídeos)
+✔️ Paul Brettle - What is Series: https://lnkd.in/dykCEtZp
+✔️ Paul Brettle - ArcSight ESM 101: https://lnkd.in/dHT5WdVu
+
+🔰 QRadar
+✔️ Jose Bravo - QRadar (38 Vídeos): https://lnkd.in/dXbWAQ3R
+
+🔰 Splunk
+✔️ What is Splunk?: https://lnkd.in/dXJX9N-m
+✔️ Intro to Splunk: https://lnkd.in/dfXpnfs7
+✔️ Using Fields: https://lnkd.in/dCc5kUx6
+✔️ Scheduling Reports & Alerts: https://lnkd.in/dF97x68R
+✔️ Visualizations: https://lnkd.in/dFpcih26
+✔️ Search Under the Hood: https://lnkd.in/dma5SBMf
+✔️ Intro to Knowledge Objects: https://lnkd.in/dZpCvrQg
+✔️ Intro to Dashboards: https://lnkd.in/dBDXqbU3
+
+------> Basic steps: <------
+- ✔️ installing a SIEM (QRadar, Graylog, ELK, Splunk, SumoLogic,..etc)
+
+🛡 QRadar
+Download >https://lnkd.in/d7ATK9ND
+install >https://lnkd.in/dWe7gZ7f
+
+
+✔️ All material you need:- 
+. WinCollect Agent: https://bit.ly/3xhioeb
+. 730_QRadar_wincollectupdate-7.3.1-16.sfs: https://bit.ly/3xdPzPS
+. WinSCP-5.21.3-Setup: https://bit.ly/3QsblpO
+. CCNA Cyber Ops SECOPS: https://bit.ly/3L0W6Dj
+. DSM Configuration Guide: https://ibm.co/3dhP9Bl
+. Incident Handling and Response: https://bit.ly/3QPvDtJ
+. What is SIEM: https://bit.ly/3dkIohW
+
+
+✔️ If you encounter any of these issues below, I've collected the solutions.
+
+
+. install WinCollect Agent another way:
+https://lnkd.in/dA34UhEV |
+https://lnkd.in/db_7ai_j
+
+
+. send Linux logs to Qradar
+https://lnkd.in/dnc6HYw9
+
+___
+. No Log Activity | Qradar CE 
+https://lnkd.in/dTa2kFrM
+
+
+. No Log Activity | Qradar Code:
+https://lnkd.in/d3ZSVzx3
+
+
+. Logs source problem:
+https://bit.ly/3QyysPD
+
+
+. Modify maximum Log size using Group Policy
+https://lnkd.in/dmD7jqGK
+
+__
+. Rule creation, use case creation Basic in Qradar SIEM
+https://lnkd.in/daWJmTu3 |
+https://ibm.co/3DwndEq
+
+✔️ Don't forget to generate an Authentication token from AS to write in WinCollect Agent when you install it 
+____
+
+✔️ where logs and events from Windows, Linux, DB,..,etc :
+ . DSM Configuration Guide: https://ibm.co/3dhP9Bl
+___
+
+--> Does it work? Great! That is a mini SOC. Document it somewhere and link it to your resume.🙏
+
+____
+
+------> Additional steps: <------
+
+- Increase log visibility (activate PowerShell logging, Scriptblock logging, install Sysmon, etc)
+
+- Install extra tools to get more visibility e.g.: Bluespan, DeepBlueCLI, Suricata Zeek, RITA (all are on GitHub)
+
+- Test your setting! Be a bad guy and try to catch yourself. (WinPwn, Atomic Red Team, Caldera -> again, check out GitHub)
+
+- If needed improve your SIEM with matching alert rules and build Dashboards. (Ideas? Look at Sigma rules -> GitHub)
+
+- Threat Intelligent Cyber Threats and Where to Find Them :
+socprime.com
+- Insert your IOCs, and get queries on the fly:
+cti.uncoder.io
+
+
+
+🔰 Elastic - SIEM Fundamentals
+
+✔️ Free Elastic training - https://lnkd.in/dqe4Dhhj
+ 
+✔️ Elastic - SIEM Fundamentals - https://lnkd.in/dYaTMCEV
+
+✔️ Elastic Stack Tutorial for beginners - https://lnkd.in/d5YF8wu4
+
+✔️ Elastic ELK SIEM - https://lnkd.in/dkf3Vb7B
+
+✔️ Download:
+- Elasticsearch - https://lnkd.in/d_8GPEnp
+- Kibana - https://lnkd.in/dK3t2xAN
+- Elastic-agent https://lnkd.in/dHwU8hZA
+- Beat - https://lnkd.in/dJhJS7wC
+- Logstash - https://lnkd.in/dTHBxm2k
+
+✔️ Installing the Elastic Stack - https://lnkd.in/dUp-TCAU
+
 🎁 Elastic ELK SIEM:
 
 🔰 ELK's architecture:
