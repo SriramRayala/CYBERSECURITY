@@ -1,0 +1,28 @@
+😱💥[ 𝐌𝐈𝐓𝐑𝐄 𝐀𝐓𝐓&𝐂𝐊+ 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦 𝐇𝐨𝐦𝐞-𝐋𝐚𝐛]💥👩‍💻
+This is one of the most advanced Home Lab. I’ll soon launch a Live Workshop on same. This Home lab is focused on setting up Red Team Lab based on MITRE ATT&CK Tactics, Techniques and Sub-Techniques.
+.
+🟢 𝐅𝐫𝐞𝐞 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
+Let’s first understand MITRE ATT&CK framework.
+📌 What is MITRE ATT&CK? https://lnkd.in/dBB_GeAB
+📌 What is MITRE ATT&CK | How can use MITRE ATT&CK Framework https://lnkd.in/dX5udJ9g
+
+
+🟢 𝐏𝐥𝐚𝐭𝐟𝐨𝐫𝐦 𝐚𝐧𝐝 𝐏𝐫𝐞-𝐫𝐞𝐪𝐮𝐢𝐬𝐢𝐭𝐞𝐬
+📌 Download Virtualbox https://lnkd.in/d8Shs5VE
+📌 Setting up Virtualbox https://lnkd.in/g49pXRtB
+📌 Install Ubuntu Server https://lnkd.in/d9P-Fj4y
+📌 Install Docker https://lnkd.in/dHG3S2yr
+
+
+🟢 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐮𝐩 𝐭𝐡𝐞 𝐑𝐞𝐝 𝐓𝐞𝐚𝐦/𝐇𝐚𝐜𝐤𝐞𝐫 𝐌𝐚𝐜𝐡𝐢𝐧𝐞
+Let’s set up Caldera tool, designed to testing MITRE ATT&CK framework for Red Team Operators.
+📌 Download Kali Linux https://lnkd.in/dBQNT7th
+📌 Install Caldera https://lnkd.in/dnQnd4ip
+📌 Install Pathfinder to automate Network scanning https://lnkd.in/dRqHbJAy
+📌 Install CALT&CK to integrate ATT&CK website with CALDERA https://lnkd.in/d7s4g3GN
+
+
+🟢 𝐄𝐱𝐞𝐫𝐜𝐢𝐬𝐞𝐬
+📌 Lateral Movement using Caldera https://lnkd.in/dJm8ASiy
+📌 Data Exfiltration using Caldera https://lnkd.in/dQu4diC3
+📌 C2 Communication Tunneling https://lnkd.in/d8pvceKx
