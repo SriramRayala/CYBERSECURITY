@@ -1,0 +1,110 @@
+Looking for Open Source SOC Tools?
+here bunch of SOC Tools.
+
+🔰 Incident Management Systems
+
+• TheHive
+https://lnkd.in/gHC2jB25
+
+• FIR
+https://lnkd.in/g7pQ-8xW
+
+🟥 Network Security Monitoring
+• IDS, network metadata
+
+‒ Suricata: IDS, network metadata, and PCAP capable
+https://suricata.io/
+
+‒ EVEbox: Alert triage
+https://evebox.org/
+
+‒ Snort
+https://www.snort.org/
+
+‒ Zeek
+https://zeek.org/
+
+-Wireshark
+https://lnkd.in/ghG4XCR5
+
+♈️ Full Packet Capture
+
+‒ Moloch
+https://arkime.com/
+
+‒ Google Stenographer
+https://lnkd.in/gkwtKHpV
+
+‒ Netsniff-ng
+http://netsniff-ng.org/
+
+🔁 Distributions
+
+‒ Security Onion
+https://lnkd.in/g6XS4GRt
+
+‒ RockNSM
+https://lnkd.in/gJ7gY-KE
+
+♓️ Endpoint monitoring / HIDS
+
+• NXLog Community Edition: logging agent https://lnkd.in/gxXXRQnq.
+
+• OSQuery
+https://lnkd.in/gzUP8bjK
+
+• OSSEC: HIDS
+https://lnkd.in/gPxZuR_Z
+
+• Sysmon
+https://lnkd.in/gNyc_62i
+
+• Wazuh: HIDS
+https://wazuh.com
+
+⛎ Incident Response
+
+• Kansa
+https://lnkd.in/ghZn_YDW
+
+• Velociraptor
+https://lnkd.in/gFCRGPSZ
+
+☣️ Malware Sandbox and Malware Analysis
+
+• Cuckoo Sandbox
+https://lnkd.in/g_RzCaRU
+
+• REMnux: malware analysis tools Linux distro
+https://remnux.org/
+
+☢️ Threat Intelligence Platforms
+
+• MISP
+https://lnkd.in/giPKntYf
+
+• OpenCTI
+https://lnkd.in/gxW9SAZ4
+
+♾ Purple Team Testing and Reporting
+
+• Vectr
+https://lnkd.in/gWxH9Z_T
+
+❇️ SIEM / Log Management
+
+• Elastic Stack
+‒ Elastalert: Alerting Engine
+https://lnkd.in/gF7GmrA2
+
+🔷 Security Orchestration Automation and Response
+
+• NSA Walkoff
+https://lnkd.in/gUcADpkU
+
+• Shuffle
+https://lnkd.in/gwtuJqaE
+
+
+• IBM Node-Red: generalized automation / orchestration framework
+https://lnkd.in/gCEUNXCY
