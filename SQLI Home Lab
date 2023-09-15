@@ -1,0 +1,20 @@
+🧑‍💻💥[𝗦𝗤𝗟 𝗜𝗻𝗷𝗲𝗰𝘁𝗶𝗼𝗻 𝗛𝗼𝗺𝗲-𝗟𝗮𝗯]💥👩‍💻
+This lab is designed to test SQL Injection vulnerabilities.
+If you’re interested to become Security Tester, Pentester, Ethical Hacker, this lab will help you to detect and exploit SQL Injection vulnerabilities
+
+🟢  𝐂𝐨𝐫𝐞 𝐈𝐧𝐠𝐫𝐞𝐝𝐢𝐞𝐧𝐭𝐬
+📌 Setup Virtual-box https://lnkd.in/d8Shs5VE
+📌 Kali Linux https://lnkd.in/dH66DGFe
+📌 Download OWASP Bricks https://lnkd.in/dRQz9PQ5
+
+🟢  𝐃𝐞𝐭𝐞𝐜𝐭 𝐒𝐐𝐋 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧 𝐕𝐮𝐥𝐧𝐞𝐫𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬
+In this section, we’ll detect Vulnerabilities from Kali Linux using tools such as SQL Map and Burp-Suite
+📌 Scan Database for SQLi Vulnerabilities using SqlMap https://lnkd.in/dUH5V4tY
+
+🟢 𝐄𝐱𝐚𝐦𝐩𝐥𝐞𝐬 𝐨𝐟 𝐒𝐐𝐋 𝐈𝐧𝐣𝐞𝐜𝐭𝐢𝐨𝐧𝐬 𝐚𝐭𝐭𝐚𝐜𝐤𝐬
+➡️ Retrieving hidden data
+➡️ Blind SQL injection - Authentication Bypass[No error, No details, No clue and bypass login form]
+➡️ Blind SQL injection - Boolean[No error, No details, No clue and response with YES/NO ]
+➡️ Blind SQL injection - Time[No error, No details, No clue and Time to complete the query ]
+➡️ SQL injection UNION attack[Starts with determining no. of columns]
+➡️ Out-of-Band SQL Injection attack[It depends on business logic]
